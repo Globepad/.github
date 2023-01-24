@@ -6,7 +6,5 @@ We design open-source projects that are going to empower developers with our pac
 
 **There are no projects right now? Why is that?**
 <br>
-Globepad is a startup founded by Arjun Sharda on January 24, 2023. Therefore, at the moment we are enabling our engine startup and starting our gears.
+Globepad is a startup founded by Arjun Sharda on January 24, 2023. Therefore, at the moment we are pushing forward our engines and starting to deploy our gears.
 </br>
-
-If you wish to work with us, you can contact [Arjun Sharda](https://www.linkedin.com/in/arjun-sharda/) on LinkedIn for our hiring opportunities!
